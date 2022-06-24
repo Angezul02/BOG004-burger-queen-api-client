@@ -1,0 +1,41 @@
+.styleCrudsOrders{
+    display: flex;     
+    height: 100vh;
+    width: 100%;
+    flex-direction: column;    
+    background-image: url('../img/fondoBurger.png');
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-size: contain;
+    font-family: 'Itim', cursive;
+}
+
+.Title {
+    text-align: center;
+   margin-top: 5%;
+}
+
+.Table-order {
+    border-color: inherit;
+    border-style: solid;
+    border-width: 0;
+    color: #000000;
+    color-scheme: unset;
+    background-color: #fefdbdbf;
+    line-break: anywhere;
+    size: b5;
+    box-sizing: content-box;
+    margin: auto;
+    padding: 10px;
+    text-align: center;
+    border-collapse: collapse;
+    border: #eea21d solid 5px;
+}
+
+.Table-order td{
+    border: #eea21d solid 2px
+}
+.img-table{
+    width: 50px;
+    height: 50px;
+}

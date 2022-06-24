@@ -1,0 +1,49 @@
+.viewMenu{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    justify-content: space-around;
+}
+.optionsMenu{
+    background-color: black;
+    margin: 10px;
+    padding: 10px;
+    width: 200px;
+    height: 300px;
+    font-family: Just Another Hand;
+    border-radius: 15px;
+}
+.bodyMenu{
+    background-color: #F2A206;
+    border-radius: 15px;
+}
+.bodyMenu h4{
+    font-size: 40px;
+}
+.bodyMenu h5{
+    font-size: 20px;
+}
+.btn-options{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    align-items: center;
+}
+.btn-add{
+    background-color: greenyellow;
+    border-radius: 5px;
+}
+.btn-edit{
+    background-color: rgba(81, 81, 219, 0.842);
+    border-radius: 5px;
+}
+.btn-delete{
+    background-color: red;
+    border-radius: 5px;
+}
+.table-resume-orders{
+    border: solid 1px black;
+}

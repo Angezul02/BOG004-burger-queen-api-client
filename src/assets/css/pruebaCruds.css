@@ -1,0 +1,19 @@
+.styleCruds{
+    display: flex;     
+    height: 100vh;
+    width: 100%;
+    flex-direction: column;    
+    background-image: url('../img/fondoBurger.png');
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-size: contain;
+    font-family: 'Itim', cursive;
+}
+.contentCrud {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+    flex-wrap: nowrap;
+}

@@ -1,0 +1,37 @@
+.SelectorRol{
+    background-color: white;
+}
+.Navbar{
+    display: flex;
+    font-family: 'Itim', cursive;
+    background-color: #F2A206;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.Navbar h3{
+    font-family: 'Itim', cursive;
+    font-size: 30px;
+    margin-left: 3%;
+}
+.Navbar-btn{
+    font-family: 'Itim', cursive;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-size: 15px;
+    text-decoration: none;
+    color: black;
+}
+h1{
+    color: red;
+    height: 100vh;
+}
+
+
+
+
+
+
+
+
+
